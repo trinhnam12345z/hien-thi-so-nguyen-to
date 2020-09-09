@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\BT C#\\Hien thi so nguyen to\\Hien thi so nguyen to\\Hien thi so nguyen to.csproj",
+      "projectUniqueName": "E:\\C#\\hien-thi-so-nguyen-to\\Hien thi so nguyen to\\Hien thi so nguyen to.csproj",
       "projectName": "Hien thi so nguyen to",
-      "projectPath": "E:\\BT C#\\Hien thi so nguyen to\\Hien thi so nguyen to\\Hien thi so nguyen to.csproj",
+      "projectPath": "E:\\C#\\hien-thi-so-nguyen-to\\Hien thi so nguyen to\\Hien thi so nguyen to.csproj",
       "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-      "outputPath": "E:\\BT C#\\Hien thi so nguyen to\\Hien thi so nguyen to\\obj\\",
+      "outputPath": "E:\\C#\\hien-thi-so-nguyen-to\\Hien thi so nguyen to\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",

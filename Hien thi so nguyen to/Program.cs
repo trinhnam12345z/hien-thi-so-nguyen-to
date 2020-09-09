@@ -13,6 +13,10 @@ namespace Hien_thi_so_nguyen_to
             Console.WriteLine("Nhập n :");
             int n = int.Parse(Console.ReadLine());
             Console.Write($"{n} số nguyên tố đầu tiên là :");
+            daySNT(n);
+        }
+        static void daySNT(int n)
+        {
             int index = 0;
             for (int i = 2; i < 200; i++)
             {
